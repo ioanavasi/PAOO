@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/tema2.dir/src/Point.cpp.o CMakeFiles/tema2.dir/src/Line.cpp.o CMakeFiles/tema2.dir/src/main.cpp.o -o tema2 
