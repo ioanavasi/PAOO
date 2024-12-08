@@ -1,6 +1,7 @@
-CMakeFiles/tema2.dir/src/main.cpp.o: /home/ioana29/tema2/src/main.cpp \
- /usr/include/stdc-predef.h /home/ioana29/tema2/inc/Line.hpp \
- /home/ioana29/tema2/inc/Point.hpp /usr/include/c++/11/iostream \
+CMakeFiles/tema2.dir/src/main.cpp.o: \
+ /home/ioana29/PAOO/tema2/src/main.cpp /usr/include/stdc-predef.h \
+ /home/ioana29/PAOO/tema2/inc/Line.hpp \
+ /home/ioana29/PAOO/tema2/inc/Point.hpp /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \

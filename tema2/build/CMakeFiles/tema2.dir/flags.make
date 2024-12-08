@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/ioana29/tema2/inc
+CXX_INCLUDES = -I/home/ioana29/PAOO/tema2/inc
 
 CXX_FLAGS = -std=c++14
 

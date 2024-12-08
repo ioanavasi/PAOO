@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ioana29/tema2/src/Line.cpp" "CMakeFiles/tema2.dir/src/Line.cpp.o" "gcc" "CMakeFiles/tema2.dir/src/Line.cpp.o.d"
-  "/home/ioana29/tema2/src/Point.cpp" "CMakeFiles/tema2.dir/src/Point.cpp.o" "gcc" "CMakeFiles/tema2.dir/src/Point.cpp.o.d"
-  "/home/ioana29/tema2/src/main.cpp" "CMakeFiles/tema2.dir/src/main.cpp.o" "gcc" "CMakeFiles/tema2.dir/src/main.cpp.o.d"
+  "/home/ioana29/PAOO/tema2/src/Line.cpp" "CMakeFiles/tema2.dir/src/Line.cpp.o" "gcc" "CMakeFiles/tema2.dir/src/Line.cpp.o.d"
+  "/home/ioana29/PAOO/tema2/src/Point.cpp" "CMakeFiles/tema2.dir/src/Point.cpp.o" "gcc" "CMakeFiles/tema2.dir/src/Point.cpp.o.d"
+  "/home/ioana29/PAOO/tema2/src/main.cpp" "CMakeFiles/tema2.dir/src/main.cpp.o" "gcc" "CMakeFiles/tema2.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links.

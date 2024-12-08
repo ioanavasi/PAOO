@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ioana29/tema1/src/byte_array.cpp" "CMakeFiles/tema1.dir/src/byte_array.cpp.o" "gcc" "CMakeFiles/tema1.dir/src/byte_array.cpp.o.d"
-  "/home/ioana29/tema1/src/main.cpp" "CMakeFiles/tema1.dir/src/main.cpp.o" "gcc" "CMakeFiles/tema1.dir/src/main.cpp.o.d"
+  "/home/ioana29/PAOO/tema1/src/byte_array.cpp" "CMakeFiles/tema1.dir/src/byte_array.cpp.o" "gcc" "CMakeFiles/tema1.dir/src/byte_array.cpp.o.d"
+  "/home/ioana29/PAOO/tema1/src/main.cpp" "CMakeFiles/tema1.dir/src/main.cpp.o" "gcc" "CMakeFiles/tema1.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links.
