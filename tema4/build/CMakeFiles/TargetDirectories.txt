@@ -1,0 +1,3 @@
+/home/ioana29/PAOO/tema4/build/CMakeFiles/tema4.dir
+/home/ioana29/PAOO/tema4/build/CMakeFiles/edit_cache.dir
+/home/ioana29/PAOO/tema4/build/CMakeFiles/rebuild_cache.dir
